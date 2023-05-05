@@ -1,0 +1,12 @@
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/JWTAuthenticationManager.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/JWTAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/JWTAuthenticationManager.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/JWTAuthenticationManager.AssemblyInfo.cs
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/JWTAuthenticationManager.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/JWTAuthenticationManager/bin/Debug/net7.0/JWTAuthenticationManager.deps.json
+/Users/ming/HRMMicro/JWTAuthenticationManager/bin/Debug/net7.0/JWTAuthenticationManager.dll
+/Users/ming/HRMMicro/JWTAuthenticationManager/bin/Debug/net7.0/JWTAuthenticationManager.pdb
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/JWTAuthenticationManager.dll
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/refint/JWTAuthenticationManager.dll
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/JWTAuthenticationManager.pdb
+/Users/ming/HRMMicro/JWTAuthenticationManager/obj/Debug/net7.0/ref/JWTAuthenticationManager.dll

@@ -1,0 +1,17 @@
+/Users/ming/HRMMicro/Recruiting.Infrastructure/bin/Debug/net7.0/Recruiting.Infrastructure.deps.json
+/Users/ming/HRMMicro/Recruiting.Infrastructure/bin/Debug/net7.0/Recruiting.Infrastructure.runtimeconfig.json
+/Users/ming/HRMMicro/Recruiting.Infrastructure/bin/Debug/net7.0/Recruiting.Infrastructure.dll
+/Users/ming/HRMMicro/Recruiting.Infrastructure/bin/Debug/net7.0/Recruiting.Infrastructure.pdb
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.AssemblyInfo.cs
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.dll
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/refint/Recruiting.Infrastructure.dll
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.pdb
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.genruntimeconfig.cache
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/ref/Recruiting.Infrastructure.dll
+/Users/ming/HRMMicro/Recruiting.Infrastructure/bin/Debug/net7.0/Recruiting.ApplicationCore.dll
+/Users/ming/HRMMicro/Recruiting.Infrastructure/bin/Debug/net7.0/Recruiting.ApplicationCore.pdb
+/Users/ming/HRMMicro/Recruiting.Infrastructure/obj/Debug/net7.0/Recruiting.Infrastructure.csproj.CopyComplete

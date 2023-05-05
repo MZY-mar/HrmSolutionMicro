@@ -1,0 +1,17 @@
+/Users/ming/HRMMicro/Interview.Infrastructure/bin/Debug/net7.0/Interview.Infrastructure.deps.json
+/Users/ming/HRMMicro/Interview.Infrastructure/bin/Debug/net7.0/Interview.Infrastructure.runtimeconfig.json
+/Users/ming/HRMMicro/Interview.Infrastructure/bin/Debug/net7.0/Interview.Infrastructure.dll
+/Users/ming/HRMMicro/Interview.Infrastructure/bin/Debug/net7.0/Interview.Infrastructure.pdb
+/Users/ming/HRMMicro/Interview.Infrastructure/bin/Debug/net7.0/Interview.ApplicationCore.dll
+/Users/ming/HRMMicro/Interview.Infrastructure/bin/Debug/net7.0/Interview.ApplicationCore.pdb
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.AssemblyInfo.cs
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.csproj.CopyComplete
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.dll
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/refint/Interview.Infrastructure.dll
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.pdb
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/Interview.Infrastructure.genruntimeconfig.cache
+/Users/ming/HRMMicro/Interview.Infrastructure/obj/Debug/net7.0/ref/Interview.Infrastructure.dll

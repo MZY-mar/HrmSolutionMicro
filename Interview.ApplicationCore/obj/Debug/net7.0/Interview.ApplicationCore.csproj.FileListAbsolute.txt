@@ -1,0 +1,12 @@
+/Users/ming/HRMMicro/Interview.ApplicationCore/bin/Debug/net7.0/Interview.ApplicationCore.deps.json
+/Users/ming/HRMMicro/Interview.ApplicationCore/bin/Debug/net7.0/Interview.ApplicationCore.dll
+/Users/ming/HRMMicro/Interview.ApplicationCore/bin/Debug/net7.0/Interview.ApplicationCore.pdb
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/Interview.ApplicationCore.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/Interview.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/Interview.ApplicationCore.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/Interview.ApplicationCore.AssemblyInfo.cs
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/Interview.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/Interview.ApplicationCore.dll
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/refint/Interview.ApplicationCore.dll
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/Interview.ApplicationCore.pdb
+/Users/ming/HRMMicro/Interview.ApplicationCore/obj/Debug/net7.0/ref/Interview.ApplicationCore.dll

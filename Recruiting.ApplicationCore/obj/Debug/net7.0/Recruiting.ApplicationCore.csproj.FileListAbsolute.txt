@@ -1,0 +1,12 @@
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/bin/Debug/net7.0/Recruiting.ApplicationCore.deps.json
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/bin/Debug/net7.0/Recruiting.ApplicationCore.dll
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/bin/Debug/net7.0/Recruiting.ApplicationCore.pdb
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/Recruiting.ApplicationCore.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/Recruiting.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/Recruiting.ApplicationCore.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/Recruiting.ApplicationCore.AssemblyInfo.cs
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/Recruiting.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/Recruiting.ApplicationCore.dll
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/refint/Recruiting.ApplicationCore.dll
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/Recruiting.ApplicationCore.pdb
+/Users/ming/HRMMicro/Recruiting.ApplicationCore/obj/Debug/net7.0/ref/Recruiting.ApplicationCore.dll

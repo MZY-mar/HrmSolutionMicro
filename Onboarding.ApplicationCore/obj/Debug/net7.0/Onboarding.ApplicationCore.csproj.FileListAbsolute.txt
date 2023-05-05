@@ -1,0 +1,12 @@
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/bin/Debug/net7.0/Onboarding.ApplicationCore.deps.json
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/bin/Debug/net7.0/Onboarding.ApplicationCore.dll
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/bin/Debug/net7.0/Onboarding.ApplicationCore.pdb
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/Onboarding.ApplicationCore.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/Onboarding.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/Onboarding.ApplicationCore.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/Onboarding.ApplicationCore.AssemblyInfo.cs
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/Onboarding.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/Onboarding.ApplicationCore.dll
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/refint/Onboarding.ApplicationCore.dll
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/Onboarding.ApplicationCore.pdb
+/Users/ming/HRMMicro/Onboarding.ApplicationCore/obj/Debug/net7.0/ref/Onboarding.ApplicationCore.dll

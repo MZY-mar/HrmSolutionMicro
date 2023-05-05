@@ -1,0 +1,17 @@
+/Users/ming/HRMMicro/Onboarding.Infrastructure/bin/Debug/net7.0/Onboarding.Infrastructure.deps.json
+/Users/ming/HRMMicro/Onboarding.Infrastructure/bin/Debug/net7.0/Onboarding.Infrastructure.runtimeconfig.json
+/Users/ming/HRMMicro/Onboarding.Infrastructure/bin/Debug/net7.0/Onboarding.Infrastructure.dll
+/Users/ming/HRMMicro/Onboarding.Infrastructure/bin/Debug/net7.0/Onboarding.Infrastructure.pdb
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.AssemblyInfo.cs
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.dll
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/refint/Onboarding.Infrastructure.dll
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.pdb
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.genruntimeconfig.cache
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/ref/Onboarding.Infrastructure.dll
+/Users/ming/HRMMicro/Onboarding.Infrastructure/bin/Debug/net7.0/Onboarding.ApplicationCore.dll
+/Users/ming/HRMMicro/Onboarding.Infrastructure/bin/Debug/net7.0/Onboarding.ApplicationCore.pdb
+/Users/ming/HRMMicro/Onboarding.Infrastructure/obj/Debug/net7.0/Onboarding.Infrastructure.csproj.CopyComplete

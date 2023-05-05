@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B1F1B26E-1F57-43A7-8C32-C0A5FD3A8138}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="interviewWebApi/Dockerfile">
+    <Files>
+      <File FileName="interviewWebApi/Program.cs" />
+      <File FileName="interviewWebApi/Controllers/InterviewController .cs" />
+      <File FileName="OnboardingAPI/Program.cs" />
+      <File FileName="interviewWebApi/Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HRMMicro" expanded="True">
+            <Node name="interviewWebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ming/HRMMicro/interviewWebApi/Dockerfile" relfile="interviewWebApi/Dockerfile" line="6" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InterviewAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.interviewWebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.OnboardingAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
