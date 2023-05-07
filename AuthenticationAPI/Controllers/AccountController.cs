@@ -23,7 +23,7 @@ namespace AuthenticationAPI.Controllers
             this.jwtTokenHandler = jwtTokenHandler;
         }
 
-        [HttpPost]
+        [HttpPost("Login")]
         public async Task<IActionResult> Login(AuthenticationRequest request)
         {
             var response = jwtTokenHandler.GenerateToken(request);

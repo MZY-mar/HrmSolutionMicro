@@ -17,13 +17,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruiting.Infrastructure",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnboardingAPI", "OnboardingAPI\OnboardingAPI.csproj", "{ACA0657A-30C6-47E2-BA14-AD4D2CFD8878}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitingAPI", "RecruitingAPI\RecruitingAPI.csproj", "{405B55FF-E62D-40DC-A335-835EA30F652E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interviewWebApi", "interviewWebApi\interviewWebApi.csproj", "{B1F1B26E-1F57-43A7-8C32-C0A5FD3A8138}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTAuthenticationManager", "JWTAuthenticationManager\JWTAuthenticationManager.csproj", "{D610028C-8679-4760-9AD6-FC8D689D774A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAPI", "AuthenticationAPI\AuthenticationAPI.csproj", "{F40646A3-2A84-4D13-94BD-C7921716FB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitingWebApi", "RecruitingWebApi\RecruitingWebApi.csproj", "{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,10 +62,6 @@ Global
 		{ACA0657A-30C6-47E2-BA14-AD4D2CFD8878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACA0657A-30C6-47E2-BA14-AD4D2CFD8878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACA0657A-30C6-47E2-BA14-AD4D2CFD8878}.Release|Any CPU.Build.0 = Release|Any CPU
-		{405B55FF-E62D-40DC-A335-835EA30F652E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{405B55FF-E62D-40DC-A335-835EA30F652E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{405B55FF-E62D-40DC-A335-835EA30F652E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{405B55FF-E62D-40DC-A335-835EA30F652E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B1F1B26E-1F57-43A7-8C32-C0A5FD3A8138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B1F1B26E-1F57-43A7-8C32-C0A5FD3A8138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1F1B26E-1F57-43A7-8C32-C0A5FD3A8138}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -78,5 +74,9 @@ Global
 		{F40646A3-2A84-4D13-94BD-C7921716FB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F40646A3-2A84-4D13-94BD-C7921716FB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F40646A3-2A84-4D13-94BD-C7921716FB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

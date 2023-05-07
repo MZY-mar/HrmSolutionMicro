@@ -44,6 +44,7 @@ namespace Onboarding.WebApi.Controllers
         }
 
         [HttpPost]
+        [Route("addEmpRole")]
         public async Task<ActionResult<int>> AddEmployeeRoleAsync(
             [FromBody] EmployeeRoleModel model
         )

@@ -18,6 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Interview.Infrastructure\Interview.Infrastructure.csproj" />
     <ProjectReference Include="..\Interview.ApplicationCore\Interview.ApplicationCore.csproj" />
+    <ProjectReference Include="..\JWTAuthenticationManager\JWTAuthenticationManager.csproj" />
   </ItemGroup>
 
 </Project>

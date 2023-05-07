@@ -3,6 +3,7 @@ using Interview.ApplicationCore.Contract.Service;
 using Interview.Infrastructure.Data;
 using Interview.Infrastructure.Repository;
 using Interview.Infrastructure.Service;
+using JWTAuthenticationManager;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,6 +28,7 @@ builder.Services.AddDbContext<InterviewManagementDbContext>(options =>
     }
     options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
 });
+builder.Services.AddCustomJwtTokenService();
 
 builder.Services.AddScoped<IInterviewServiceAsync, InterviewServiceAsync>();
 builder.Services.AddScoped<IInterviewFeedbackServiceAsync, InterviewFeedbackServiceAsync>();
@@ -54,7 +56,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseAuthentication();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

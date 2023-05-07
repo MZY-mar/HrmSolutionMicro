@@ -26,7 +26,13 @@ namespace JWTAuthenticationManager
                 {
                     Username = "admin",
                     Password = "admin123",
-                    Role = "admin"
+                    Role = "Admin"
+                },
+                new UserAccount()
+                {
+                    Username = "scott",
+                    Password = "scott123",
+                    Role = "User"
                 }
             };
         }
