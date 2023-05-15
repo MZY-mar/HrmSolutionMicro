@@ -11,7 +11,7 @@ namespace Authentication.Infrastructure.Repository
     public class AuthenticationRepository : IAuthenticationRepository
     {
         private readonly UserManager<ApplicationUser> userManager;
-        private readonly Microsoft.AspNetCore.Identity.SignInManager<ApplicationUser> signInManager;
+        private readonly SignInManager<ApplicationUser> signInManager;
 
         public AuthenticationRepository(
             UserManager<ApplicationUser> userManager,
@@ -31,7 +31,17 @@ namespace Authentication.Infrastructure.Repository
                 Email = model.Email,
                 UserName = model.Email
             };
-            return await userManager.CreateAsync(user, model.Password);
+            var result = await userManager.CreateAsync(user, model.Password);
+            if (!result.Succeeded)
+            {
+                var exceptionText = result.Errors.Aggregate(
+                    "User Creation Failed - Identity Exception. Errors were: \n\r\n\r",
+                    (current, error) => current + (" - " + error + "\n\r")
+                );
+                throw new Exception(exceptionText);
+            }
+
+            return result;
         }
 
         public async Task<SignInResult> LoginAsync(LoginModel model)

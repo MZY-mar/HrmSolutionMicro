@@ -10,9 +10,19 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+var connectionString = Environment.GetEnvironmentVariable("AuthenticationDB");
+
 builder.Services.AddDbContext<AuthenticationDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("AuthenticationDB"));
+    if (connectionString != null && connectionString.Length > 1)
+    {
+        options.UseSqlServer(connectionString);
+    }
+    else
+    {
+        options.UseSqlServer(builder.Configuration.GetConnectionString("AuthenticationDB"));
+    }
+    options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
 });
 builder.Services.AddControllers();
 builder.Services.AddSingleton<JWTTokenHandler>();
@@ -20,6 +30,12 @@ builder.Services.AddSingleton<JWTTokenHandler>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//1.Cors
+builder.Services.AddCors(option =>{
+    option.AddDefaultPolicy(policy=>{
+        policy.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod();
+    });
+});
 
 builder.Services
     .AddIdentity<ApplicationUser, IdentityRole>()
@@ -35,9 +51,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
-app.UseHttpsRedirection();
-
+//add  app.UseRouting();app.UseCors();
+app.UseRouting();
+app.UseCors();
 app.UseAuthorization();
 
 app.MapControllers();

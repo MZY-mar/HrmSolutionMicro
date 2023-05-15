@@ -11,7 +11,7 @@ namespace Recruiting.WebApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Roles = "Admin")]
+    [Authorize]
     public class CandidateController : ControllerBase
     {
         private readonly ILogger<CandidateController> _logger;
