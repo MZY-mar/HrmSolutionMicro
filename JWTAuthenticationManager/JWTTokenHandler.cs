@@ -18,37 +18,22 @@ namespace JWTAuthenticationManager
         private const int JWT_Token_Validity_Min = 20;
         private readonly List<UserAccount> userAccounts;
 
-        public JWTTokenHandler()
-        {
-            userAccounts = new List<UserAccount>()
-            {
-                new UserAccount()
-                {
-                    Username = "admin",
-                    Password = "admin123",
-                    Role = "Admin"
-                },
-                new UserAccount()
-                {
-                    Username = "scott",
-                    Password = "scott123",
-                    Role = "User"
-                }
-            };
-        }
+        public JWTTokenHandler() { }
 
-        public AuthenticationResponse GenerateToken(AuthenticationRequest request)
+        public AuthenticationResponse GenerateToken(AuthenticationRequest request, string role)
         {
-            if (string.IsNullOrEmpty(request.Username) || string.IsNullOrEmpty(request.Password))
-            {
-                return null;
-            }
+            // if (string.IsNullOrEmpty(request.Username) || string.IsNullOrEmpty(request.Password))
+            // {
+            //     return null;
+            // }
 
-            var result = userAccounts
-                .Where(x => x.Username == request.Username && x.Password == request.Password)
-                .FirstOrDefault();
-            if (result == null)
-                return null;
+            // var result = userAccounts
+            //     .Where(x => x.Username == request.Username && x.Password == request.Password)
+            //     .FirstOrDefault();
+            // if (result == null)
+            //     return null;
+
+
             // if it result is not null we need to generate the token
             var TokenExpireTime = DateTime.UtcNow.AddMinutes(JWT_Token_Validity_Min);
             var tokenKey = Encoding.ASCII.GetBytes(JWT_Sectet_Key);
@@ -59,7 +44,7 @@ namespace JWTAuthenticationManager
                         Microsoft.IdentityModel.JsonWebTokens.JwtRegisteredClaimNames.Name,
                         request.Username
                     ),
-                    new Claim(ClaimTypes.Role, result.Role),
+                    new Claim(ClaimTypes.Role, role),
                 }
             );
             //passing security key
@@ -82,7 +67,7 @@ namespace JWTAuthenticationManager
             {
                 Token = token,
                 ExpiresInt = (int)TokenExpireTime.Subtract(DateTime.Now).TotalSeconds,
-                Username = result.Username
+                Username = request.Username
             };
         }
     }

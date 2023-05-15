@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAPI", "Authen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitingWebApi", "RecruitingWebApi\RecruitingWebApi.csproj", "{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication.Infrastructure", "Authentication.Infrastructure\Authentication.Infrastructure.csproj", "{621A4662-3E45-465B-919B-94EF6855117B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication.Core", "Authentication.Core\Authentication.Core.csproj", "{3919CCBF-027A-403B-A345-17C77E044A56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +82,13 @@ Global
 		{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71DA831A-5679-4A0E-B13B-0E14C8DEFD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621A4662-3E45-465B-919B-94EF6855117B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621A4662-3E45-465B-919B-94EF6855117B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621A4662-3E45-465B-919B-94EF6855117B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621A4662-3E45-465B-919B-94EF6855117B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3919CCBF-027A-403B-A345-17C77E044A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3919CCBF-027A-403B-A345-17C77E044A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3919CCBF-027A-403B-A345-17C77E044A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3919CCBF-027A-403B-A345-17C77E044A56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

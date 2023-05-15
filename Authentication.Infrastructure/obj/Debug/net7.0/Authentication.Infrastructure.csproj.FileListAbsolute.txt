@@ -1,0 +1,17 @@
+/Users/ming/HRMMicro/Authentication.Infrastructure/bin/Debug/net7.0/Authentication.Infrastructure.deps.json
+/Users/ming/HRMMicro/Authentication.Infrastructure/bin/Debug/net7.0/Authentication.Infrastructure.runtimeconfig.json
+/Users/ming/HRMMicro/Authentication.Infrastructure/bin/Debug/net7.0/Authentication.Infrastructure.dll
+/Users/ming/HRMMicro/Authentication.Infrastructure/bin/Debug/net7.0/Authentication.Infrastructure.pdb
+/Users/ming/HRMMicro/Authentication.Infrastructure/bin/Debug/net7.0/Authentication.Core.dll
+/Users/ming/HRMMicro/Authentication.Infrastructure/bin/Debug/net7.0/Authentication.Core.pdb
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.AssemblyInfo.cs
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.csproj.CopyComplete
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.dll
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/refint/Authentication.Infrastructure.dll
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.pdb
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/Authentication.Infrastructure.genruntimeconfig.cache
+/Users/ming/HRMMicro/Authentication.Infrastructure/obj/Debug/net7.0/ref/Authentication.Infrastructure.dll

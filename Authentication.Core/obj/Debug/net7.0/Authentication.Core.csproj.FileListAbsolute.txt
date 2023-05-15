@@ -1,0 +1,12 @@
+/Users/ming/HRMMicro/Authentication.Core/bin/Debug/net7.0/Authentication.Core.deps.json
+/Users/ming/HRMMicro/Authentication.Core/bin/Debug/net7.0/Authentication.Core.dll
+/Users/ming/HRMMicro/Authentication.Core/bin/Debug/net7.0/Authentication.Core.pdb
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/Authentication.Core.csproj.AssemblyReference.cache
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/Authentication.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/Authentication.Core.AssemblyInfoInputs.cache
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/Authentication.Core.AssemblyInfo.cs
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/Authentication.Core.csproj.CoreCompileInputs.cache
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/Authentication.Core.dll
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/refint/Authentication.Core.dll
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/Authentication.Core.pdb
+/Users/ming/HRMMicro/Authentication.Core/obj/Debug/net7.0/ref/Authentication.Core.dll

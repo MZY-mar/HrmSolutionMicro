@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/InterviewAPI/InterviewAPI.csproj",
+                "${workspaceFolder}/AuthenticationAPI/AuthenticationAPI.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/InterviewAPI/InterviewAPI.csproj",
+                "${workspaceFolder}/AuthenticationAPI/AuthenticationAPI.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/InterviewAPI/InterviewAPI.csproj"
+                "${workspaceFolder}/AuthenticationAPI/AuthenticationAPI.csproj"
             ],
             "problemMatcher": "$msCompile"
         },

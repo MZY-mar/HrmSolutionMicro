@@ -2,6 +2,7 @@
 
 version: '3.4'
 
+    
 services:
   onboardingapi:
     image: onboardingapi
@@ -23,7 +24,14 @@ services:
     image: recrutingapi
     build:
       context: .
-      dockerfile: RecruitingAPI/Dockerfile
+      dockerfile: RecruitingWebApi/Dockerfile
     ports:
         - 8082:80
+  authenticationapi:
+    image: authenticationapi
+    build:
+      context: .
+      dockerfile: authenticationAPI/Dockerfile
+    ports:
+        - 8084:80
     
